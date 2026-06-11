@@ -2,7 +2,7 @@
 
 A research-driven valuation and investment analysis pack for Space Exploration Technologies Corp., covering the business model, operating drivers, valuation framework, source library, and model update process.
 
-![SpaceX Valuation Model Cover](assets/model-cover.png)
+![SpaceX Valuation Model Cover](07_Model/Archive/model-cover.png)
 
 ## Overview
 
@@ -16,6 +16,7 @@ The Excel workbook is structured around a control page, segment-level valuation 
 
 | Tab | Purpose |
 | --- | --- |
+| Exec Summary | High-level model output, key valuation takeaways, and investment case summary. |
 | Cover | Control panel, valuation summary, scenario selectors, and upside/downside summary. |
 | SOTP | Consolidated sum-of-the-parts valuation. |
 | Connectivity DCF | Starlink and connectivity segment valuation. |
@@ -35,47 +36,16 @@ The model is intended to be usable as a working valuation file rather than a sta
 ## Repository Structure
 
 ```text
-00_Index.xlsx
-01_Filings
-02_Investor_Materials
-03_Financial_Reporting
-04_Research
-05_News
-06_Operating_Data
-07_Model
-08_Output
-assets
+00_Index.xlsx              Central index of key sources and files.
+01_Filings                 Primary filings, regulatory documents, government disclosures, and official source documents.
+02_Investor_Materials      Company presentations, investor materials, fundraising documents, factsheets, and management materials.
+03_Financial_Reporting     Financial reports, transcripts, earnings materials, conference transcripts, and management commentary.
+04_Research                Broker reports, industry reports, competitor research, TAM studies, and valuation research.
+05_News                    News articles, funding rounds, M&A announcements, major contracts, and important developments.
+06_Operating_Data          Model input datasets such as subscriber counts, launch counts, satellite data, pricing, KPIs, and contract tracking.
+07_Model                   Main Excel valuation model, archived versions, and model cover image.
+08_Output                  Investment memos, valuation summaries, presentation decks, and final outputs.
 ```
-
-`00_Index.xlsx`  
-Central index of key sources and files.
-
-`01_Filings`  
-Primary filings, regulatory documents, government disclosures, and official source documents.
-
-`02_Investor_Materials`  
-Company presentations, investor materials, fundraising documents, factsheets, and management materials.
-
-`03_Financial_Reporting`  
-Financial reports, transcripts, earnings materials, conference transcripts, and management commentary.
-
-`04_Research`  
-Broker reports, industry reports, competitor research, TAM studies, and valuation research.
-
-`05_News`  
-News articles, funding rounds, M&A announcements, major contracts, and important developments.
-
-`06_Operating_Data`  
-Model input datasets such as subscriber counts, launch counts, satellite data, pricing, KPIs, and contract tracking.
-
-`07_Model`  
-Main Excel valuation model and archived versions.
-
-`08_Output`  
-Investment memos, valuation summaries, presentation decks, and final outputs.
-
-`assets`  
-Images and supporting repository presentation assets.
 
 ## Updating the Model
 
