@@ -35,6 +35,8 @@ The model is intended to be usable as a working valuation file rather than a sta
 
 ## Repository Structure
 
+This repository is broader than a single Excel workbook. It is intended to function as a complete valuation pack containing:
+
 ```text
 00_Index.xlsx              Central index of key sources and files.
 01_Filings                 Primary filings, regulatory documents, government disclosures, and official source documents.
@@ -68,17 +70,6 @@ Annual updates may include:
 - Refresh scenario cases.
 - Archive prior model versions.
 
-## Investment Pack Contents
-
-This repository is broader than a single Excel workbook. It is intended to function as a complete valuation pack containing:
-
-- Source library.
-- Operating data.
-- Valuation model.
-- Comparable company analysis.
-- Research notes.
-- Final outputs.
-
 ## Intended Use
 
 This repository can be used for:
@@ -88,12 +79,6 @@ This repository can be used for:
 - Practicing investment research workflows.
 - Tracking private-company operating assumptions.
 - Building repeatable investment case repositories.
-
-## Repeatable Framework
-
-The structure is designed to be reusable for other company valuation projects. The same workflow can be applied by maintaining a clear source library, separating raw research from operating datasets, keeping the valuation model in a dedicated model folder, and archiving finished outputs separately.
-
-The goal is to make each assumption traceable, each update repeatable, and each output supported by an organized research base.
 
 ## Disclaimer
 
