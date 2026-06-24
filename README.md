@@ -2,7 +2,7 @@
 
 A research-driven valuation and investment analysis pack for Space Exploration Technologies Corp., covering the business model, operating drivers, valuation framework, source library, and model update process.
 
-![SpaceX Valuation Model Cover](07_Model/Archive/model-cover.png)
+[![Updated SpaceX Valuation Model Cover](07_Model/Archive/model-cover.png)](07_Model/Archive/model-cover.png)
 
 ## Overview
 
